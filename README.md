@@ -29,9 +29,9 @@ Explore my portfolio to discover the projects I've worked on. Each project demon
 ## Tic-Tac-Toe Game
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/126682106/284076924-d297f744-91ee-474f-96fb-4a568db91786.png" width="230" height="200" style="margin: 10px;" />
-  <img src="https://user-images.githubusercontent.com/126682106/284077020-94307323-79f7-4e73-b210-857f1adb2bae.png" width="230" height="200" style="margin: 10px;" />
-  <img src="https://user-images.githubusercontent.com/126682106/284077027-f9866961-b878-41a4-93ef-99f86c276c81.png" width="230" height="200" style="margin: 10px;" />
+  <img src="https://user-images.githubusercontent.com/126682106/284076924-d297f744-91ee-474f-96fb-4a568db91786.png" width="250" height="200" style="margin: 10px;" />
+  <img src="https://user-images.githubusercontent.com/126682106/284077020-94307323-79f7-4e73-b210-857f1adb2bae.png" width="250" height="200" style="margin: 10px;" />
+  <img src="https://user-images.githubusercontent.com/126682106/284077027-f9866961-b878-41a4-93ef-99f86c276c81.png" width="250" height="200" style="margin: 10px;" />
 
 </div>
 
