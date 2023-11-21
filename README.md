@@ -24,6 +24,7 @@ Explore my portfolio to discover the projects I've worked on. Each project demon
 
 - **Description**: Explore a collection of my frontend projects showcasing the power of JavaScript, React, CSS, and HTML. From dynamic web applications to stylish user interfaces, this repository is a portfolio of my coding journey in the frontend development realm.
 - **Tech Stack**: JavaScript, React, CSS, HTML
+- **Visit the work** :https://nithishgitsrc.github.io/Frontend-Works-Showcase/glassy-login-snow-animation/
 - **Visit the Repository**:  https://github.com/NithishGitSrc/Frontend-Works-Showcase
 
 ## Tic-Tac-Toe Game
