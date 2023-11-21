@@ -1,8 +1,10 @@
-## 🧑‍💻 About Me
+# Welcome to Nithish G's GitHub Profile!
 
-I am a passionate computer science student currently pursuing my Master of Computer Application at Vellore Institute of Technology, Vellore. With a strong foundation in JavaScript and proficiency in Java, Python, CSS, and HTML, I enjoy crafting dynamic and responsive web applications.
+## 🧑‍💻 About Me
+Hi there! I'm Nithish, a Master of Computer Application student at VIT, Vellore. Welcome to my GitHub profile, where I showcase my passion for coding and building awesome projects. With a strong foundation in JavaScript and proficiency in Java, Python, CSS, and HTML, I enjoy crafting dynamic and responsive web applications.
 <br>
- - 🤖💻 Actively learning the exciting field of Machine Learning📈🧠🤔<br>📌Crafted dynamic and responsive web applications and .NET solutions, leveraging cutting-edge technologies and programming languages to deliver exceptional user experiences and drive business success.
+ - 🤖💻 Actively learning the exciting field of Machine Learning📈🧠🤔
+ - 📌Crafted dynamic and responsive web applications and .NET solutions, leveraging cutting-edge technologies and programming languages to deliver exceptional user experiences and drive business success.
  - 📣 To leverage my passion for technology and problem-solving skills in a challenging and dynamic role that will allow me to push the boundaries of innovation and contribute to building a better future through technology. I am committed to continuous learning and professional growth and excited to collaborate with a team of like-minded individuals to create impactful solutions that make a difference in the world.<br>
 
 ## Portfolio
@@ -10,6 +12,19 @@ Explore my portfolio to discover the projects I've worked on. Each project demon
 
 🔗 Portfolio Link : [https://nithishg.epizy.com](https://nithishg.epizy.com)
 
+## Explore My Repositories
+
+👇 Here are some of my awesome repositories. Dive in and explore!
+
+###  [Frontend-Works-Showcase](link-to-repo)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/126682106/284138186-6b33b9cf-e1bc-4a51-a90e-aba8c5e2d5f0.png" width="200" height="200" style="margin: 10px;" />
+  <img src="https://user-images.githubusercontent.com/126682106/284138186-6b33b9cf-e1bc-4a51-a90e-aba8c5e2d5f0.png" width="200" height="200" style="margin: 10px;" />
+</div>
+
+- **Description**: Explore a collection of my frontend projects showcasing the power of JavaScript, React, CSS, and HTML. From dynamic web applications to stylish user interfaces, this repository is a portfolio of my coding journey in the frontend development realm.
+- **Tech Stack**: JavaScript, React, CSS, HTML
+- **Visit the Repository**:  https://github.com/NithishGitSrc/Frontend-Works-Showcase
 
 
 ## 🌐 Socials:
