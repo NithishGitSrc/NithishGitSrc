@@ -5,7 +5,7 @@ Hi there! I'm Nithish, a Master of Computer Application student at VIT, Vellore.
 <br>
  - 🤖💻 Actively learning the exciting field of Machine Learning📈🧠🤔
  - 📌Crafted dynamic and responsive web applications and .NET solutions, leveraging cutting-edge technologies and programming languages to deliver exceptional user experiences and drive business success.
- - 📣 To leverage my passion for technology and problem-solving skills in a challenging and dynamic role that will allow me to push the boundaries of innovation and contribute to building a better future through technology. I am committed to continuous learning and professional growth and excited to collaborate with a team of like-minded individuals to create impactful solutions that make a difference in the world.<br>
+ - 📣 I'm eager to apply my technology passion and problem-solving skills in a challenging role that fosters innovation. Committed to ongoing learning and professional growth, I aim to collaborate with a dynamic team to create impactful solutions for a better future through technology.<br>
 
 ## Portfolio
 Explore my portfolio to discover the projects I've worked on. Each project demonstrates my skills in frontend and backend development, creating seamless and engaging user experiences.
