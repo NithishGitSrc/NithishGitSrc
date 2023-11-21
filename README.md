@@ -1,5 +1,15 @@
-# 💫 About Me:
-🧑‍💻Pursuing Master of Computer Application @ Vellore Institute of Technology - Vellore<br>🤖💻 Actively learning the exciting field of Machine Learning📈🧠🤔<br>📌Crafted dynamic and responsive web applications and .NET solutions, leveraging cutting-edge technologies and programming languages to deliver exceptional user experiences and drive business success.<br>📣 To leverage my passion for technology and problem-solving skills in a challenging and dynamic role that will allow me to push the boundaries of innovation and contribute to building a better future through technology. I am committed to continuous learning and professional growth and excited to collaborate with a team of like-minded individuals to create impactful solutions that make a difference in the world.<br>🔗Portfolio Link : https://nithishg.epizy.com
+## 🧑‍💻 About Me
+
+I am a passionate computer science student currently pursuing my Master of Computer Application at Vellore Institute of Technology, Vellore. With a strong foundation in JavaScript and proficiency in Java, Python, CSS, and HTML, I enjoy crafting dynamic and responsive web applications.
+<br>
+ - 🤖💻 Actively learning the exciting field of Machine Learning📈🧠🤔<br>📌Crafted dynamic and responsive web applications and .NET solutions, leveraging cutting-edge technologies and programming languages to deliver exceptional user experiences and drive business success.
+ - 📣 To leverage my passion for technology and problem-solving skills in a challenging and dynamic role that will allow me to push the boundaries of innovation and contribute to building a better future through technology. I am committed to continuous learning and professional growth and excited to collaborate with a team of like-minded individuals to create impactful solutions that make a difference in the world.<br>
+
+## Portfolio
+Explore my portfolio to discover the projects I've worked on. Each project demonstrates my skills in frontend and backend development, creating seamless and engaging user experiences.
+
+🔗 Portfolio Link : [https://nithishg.epizy.com](https://nithishg.epizy.com)
+
 
 
 ## 🌐 Socials:
