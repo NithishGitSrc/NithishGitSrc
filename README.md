@@ -16,8 +16,8 @@ Explore my portfolio to discover the projects I've worked on. Each project demon
 
 👇 Here are some of my awesome repositories. Dive in and explore!
 
-###  [Frontend-Works-Showcase](link-to-repo)
-<div align="center">
+## Frontend-Works-Showcase
+<div>
   <img src="https://user-images.githubusercontent.com/126682106/284138186-6b33b9cf-e1bc-4a51-a90e-aba8c5e2d5f0.png" width="200" height="200" style="margin: 10px;" />
   <img src="https://user-images.githubusercontent.com/126682106/284138186-6b33b9cf-e1bc-4a51-a90e-aba8c5e2d5f0.png" width="200" height="200" style="margin: 10px;" />
 </div>
