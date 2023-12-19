@@ -18,9 +18,19 @@ Explore my portfolio to discover the projects I've worked on. Each project demon
 
 ## Frontend-Works-Showcase
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/126682106/284138186-6b33b9cf-e1bc-4a51-a90e-aba8c5e2d5f0.png" width="300" height="200" style="margin: 10px;" />
-  <img src="https://user-images.githubusercontent.com/126682106/284139168-27b98f2c-d978-4e62-b61e-5cfba4253fcc.png" width="300" height="200" style="margin: 10px;" />
- <img src="https://github.com/NithishGitSrc/Frontend-Works-Showcase/assets/126682106/34191659-4282-402d-83b3-74225f6c0983.png" width="300" height="200" style="margin: 10px;" />
+<a target="_blank" href="https://nithishgitsrc.github.io/Frontend-Works-Showcase/glassy-login-snow-animation/">
+<img src="https://github.com/NithishGitSrc/Frontend-Works-Showcase/assets/126682106/27b98f2c-d978-4e62-b61e-5cfba4253fcc.png"   height=180 width="300" />
+</a>
+
+<a target="_blank" href="https://nithishgitsrc.github.io/Frontend-Works-Showcase/SignUp-Page-LostNFoundU/SignUp.html">
+<img src="https://github.com/NithishGitSrc/Frontend-Works-Showcase/assets/126682106/34191659-4282-402d-83b3-74225f6c0983.png"  height=180 width="300"/>
+</a>
+
+
+<a target="_blank" href="https://nithishgitsrc.github.io/Frontend-Works-Showcase/Veggies-Card-Design/index.html">
+<img src="https://github.com/NithishGitSrc/Frontend-Works-Showcase/assets/126682106/22894a23-3513-4899-af98-8a98065c199a.png"  height=180 width="300"/>
+</a>
+
 </div>
 
 - **Description**: Explore a collection of my frontend projects showcasing the power of JavaScript, React, CSS, and HTML. From dynamic web applications to stylish user interfaces, this repository is a portfolio of my coding journey in the frontend development realm.
