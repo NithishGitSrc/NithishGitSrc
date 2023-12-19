@@ -20,6 +20,7 @@ Explore my portfolio to discover the projects I've worked on. Each project demon
 <div align="center">
   <img src="https://user-images.githubusercontent.com/126682106/284138186-6b33b9cf-e1bc-4a51-a90e-aba8c5e2d5f0.png" width="300" height="200" style="margin: 10px;" />
   <img src="https://user-images.githubusercontent.com/126682106/284139168-27b98f2c-d978-4e62-b61e-5cfba4253fcc.png" width="300" height="200" style="margin: 10px;" />
+ <img src="https://github.com/NithishGitSrc/Frontend-Works-Showcase/assets/126682106/34191659-4282-402d-83b3-74225f6c0983.png" width="300" height="200" style="margin: 10px;" />
 </div>
 
 - **Description**: Explore a collection of my frontend projects showcasing the power of JavaScript, React, CSS, and HTML. From dynamic web applications to stylish user interfaces, this repository is a portfolio of my coding journey in the frontend development realm.
