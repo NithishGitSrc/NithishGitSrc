@@ -28,7 +28,7 @@ Explore my portfolio to discover the projects I've worked on. Each project demon
 
 
 <a target="_blank" href="https://nithishgitsrc.github.io/Frontend-Works-Showcase/Veggies-Card-Design/index.html">
-<img src="https://raw.githubusercontent.com/NithishGitSrc/Frontend-Works-Showcase/main/Veggies-Card-Design/ScreenShots/card%20hover.png"  height=180 width="300"/>
+<img src="https://github.com/NithishGitSrc/Frontend-Works-Showcase/assets/126682106/92027a2a-8595-4f9e-8bdb-8af56128da47.png"  height=180 width="300"/>
 </a>
 
 </div>
