@@ -1,18 +1,18 @@
 # Welcome to Nithish G's GitHub Profile!
 
 ## 🧑‍💻 About Me
-Hi there! I'm Nithish, a Master of Computer Application student at VIT, Vellore. Welcome to my GitHub profile, where I showcase my passion for coding and building awesome projects. With a strong foundation in JavaScript and proficiency in Java, Python, CSS, and HTML, I enjoy crafting dynamic and responsive web applications.
-<br>
- - 🤖💻 Actively learning the exciting field of Machine Learning📈🧠🤔
- - 📌Crafted dynamic and responsive web applications and .NET solutions, leveraging cutting-edge technologies and programming languages to deliver exceptional user experiences and drive business success.
- - 📣 I'm eager to apply my technology passion and problem-solving skills in a challenging role that fosters innovation. Committed to ongoing learning and professional growth, I aim to collaborate with a dynamic team to create impactful solutions for a better future through technology.<br>
+- Hi there! I'm Nithish, a Master of Computer Application student at VIT, Vellore. Welcome to my GitHub profile, where I showcase my passion for coding and building awesome projects. With a strong foundation in JavaScript and proficiency in Java, Python, CSS, and HTML, I enjoy crafting dynamic and responsive web applications.
+
+ <!-- 🤖💻 Actively learning the exciting field of Machine Learning📈🧠🤔 -->
+ <!-- - 📌Crafted dynamic and responsive web applications and .NET solutions, leveraging cutting-edge technologies and programming languages to deliver exceptional user experiences and drive business success. -->
+- 📣 I'm eager to apply my technology passion and problem-solving skills in a challenging role that fosters innovation. Committed to ongoing learning and professional growth, I aim to collaborate with a dynamic team to create impactful solutions for a better future through technology.<br>
 
 ## Portfolio
 Explore my portfolio to discover the projects I've worked on. Each project demonstrates my skills in frontend and backend development, creating seamless and engaging user experiences.
 
 🔗 Portfolio Link : [https://nithishg.epizy.com](https://nithishg.epizy.com)
 
-## Explore My Repositories
+# Explore My Repositories
 
 👇 Here are some of my awesome repositories. Dive in and explore!
 
