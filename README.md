@@ -52,6 +52,19 @@ Explore my portfolio to discover the projects I've worked on. Each project demon
 - **Visit the Repository**: [Tic-Tac-Toe Repository](https://github.com/NithishGitSrc/Tic-tac-toe)
 
 
+
+## Advance-Keylogger
+
+<div align="center">
+ <img src="https://github.com/NithishGitSrc/NithishGitSrc/assets/126682106/d8ab4119-1055-47cc-a4b2-1965271ded98"  height="200" style="margin: 10px;" /> 
+ <img src="https://github.com/NithishGitSrc/NithishGitSrc/assets/126682106/a068ddf4-c5a3-4225-9852-6dfd787de08a" width="250" height="200" style="margin: 10px;" />  
+</div>
+
+- **Description**: "GuardianEye 🌐🔒: Empowering Cybersecurity with Advanced Keylogger – A robust defense system providing comprehensive monitoring of employee activities, capturing keystrokes, screenshots, application logs, and system logs for proactive threat detection and enhanced security insights in modern business operations. 🛡️💻
+- **Tech Stack**: Python
+- **Visit the Repository**: [Advance-Keylogger](https://github.com/NithishGitSrc/Advance-Keylogger)
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nithish_adp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nithish-g-65b227239) 
 
