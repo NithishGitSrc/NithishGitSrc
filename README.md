@@ -36,6 +36,15 @@ Explore my portfolio to discover the projects I've worked on. Each project demon
 - **Tech Stack**: JavaScript, React, CSS, HTML
 - **Visit the Repository**:  https://github.com/NithishGitSrc/Frontend-Works-Showcase
 
+## Pet Care Centric Company - Coming Soon Page
+
+### Completed Task:
+
+I have completed the task and coded the webpage frame. You can view the final page on [GitHub Pages](https://nithishgitsrc.github.io/MyPerroInternTask/).
+
+### Screenshots:
+![image](https://github.com/NithishGitSrc/MyPerroInternTask/assets/126682106/8e1c5504-aab5-411a-b151-ad5eb290eeba)
+
 ## Tic-Tac-Toe Game
 
 <div align="center">
