@@ -10,8 +10,9 @@
 
 🌟 With a relentless pursuit of perfection, I craft seamless user experiences and architect robust systems that stand the test of time.
 
-🌐 As a fervent advocate for open-source collaboration, I thrive in the dynamic world of knowledge sharing and community-driven innovation.
+---
 
+🌐 As a fervent advocate for open-source collaboration, I thrive in the dynamic world of knowledge sharing and community-driven innovation.
 💼 Seeking to elevate your project to the next level? Let's collaborate! Shoot me an  [email](mailto:nithishweb@gmail.com) to kickstart something extraordinary.
 
 💬 Got questions or simply want to connect? Don't hesitate to reach out—I'm always here to assist and discuss exciting opportunities.
