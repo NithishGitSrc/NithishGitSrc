@@ -1,23 +1,36 @@
-# Welcome to Nithish G's GitHub Profile!
+# " {<>} " Nithish G
 
-## 🧑‍💻 About Me
-<!--
-- 📣 Hi there! I'm Nithish. I'm eager to apply my technology passion and problem-solving skills in a challenging role that fosters innovation. Committed to ongoing learning and professional growth, I aim to collaborate with a dynamic team to create impactful solutions for a better future through technology.
--   Welcome to my GitHub profile, where I showcase my passion for coding and building awesome projects. With a strong foundation in JavaScript and proficiency in Java, Python, CSS, and HTML, I enjoy crafting dynamic and responsive web applications.
--->
-
-👋 Hey, I'm Nithish, an enthusiastic self-taught full stack developer and freelance software engineer hailing from vibrant India. My world revolves around transforming visions into captivating realities, all while ensuring every line of code is a masterpiece.
-
-🌟 With a relentless pursuit of perfection, I craft seamless user experiences and architect robust systems that stand the test of time.
+I’m a **Backend Engineer** focused on building resilient distributed systems, high-throughput APIs, and data pipelines that scale cleanly without unnecessary complexity. I care deeply about system reliability, query performance, and writing code that remains maintainable when production load spikes.
 
 ---
 
-🌐 As a fervent advocate for open-source collaboration, I thrive in the dynamic world of knowledge sharing and community-driven innovation.
-💼 Seeking to elevate your project to the next level? Let's collaborate! Shoot me an  [email](mailto:nithishweb@gmail.com) to kickstart something extraordinary.
+### Core Tech Stack
 
-💬 Got questions or simply want to connect? Don't hesitate to reach out—I'm always here to assist and discuss exciting opportunities.
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java, React.js, Python, SQL |
+| **Frameworks** | Spring Boot, Node.js, FastAPI |
+| **Databases & Caching** | PostgreSQL, Redis, MongoDB |
+| **Messaging & Streaming** | Apache Kafka, RabbitMQ |
+| **Cloud & Infrastructure** | Docker, Kubernetes, AWS (EC2, S3, RDS), GitHub Actions |
+| **Observability** | Prometheus, Grafana, OpenTelemetry |
 
-🔗 Let's turn your ideas into reality, together! Portfolio Link : [https://nithishg.epizy.com](https://nithishg.epizy.com)
+---
+
+### What I Focus On
+
+* **System Design & Scalability:** Designing for high availability, fault tolerance, and loose coupling.
+* **Database Optimization:** Indexing strategies, connection pooling, and eliminating query bottlenecks.
+* **Event-Driven Architectures:** Decoupling complex workflows using asynchronous message brokers.
+* **API Craftsmanship:** Writing clean contracts (REST / gRPC), clear documentation, and robust test suites.
+
+---
+
+### Connect With Me
+
+* **LinkedIn:** [Linkedin/nithish-g-swe/](https://www.linkedin.com/in/nithish-g-swe/)
+* **Blog / Portfolio:** [nithishg.dev](https://nithishg.epizy.com/?i=1)
+* **Email:** [nithishg7775@gmail.com](mailto:your.nithishg7775@gmail.com)
 
 # Explore My Repositories
 
